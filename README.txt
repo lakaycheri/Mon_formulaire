@@ -1,7 +1,7 @@
 Mon_formulaire
-Mon formulaire de contacte
+Mon formulaire d'inscription
  Ce formualire est écrit en HTML5
-	je l'ai fait dans le cadre devoir sur Git & Github de
-	OpenClassrooms.com
 	
-	Il a pour but de vous aider à créer votre premier formulaire en HTML
+	Un formulaire d'inscription pour votre site, cet dernier est très loin d'être complet.
+	Vous pouvez l'améliorer à votre guise, par ailleurs c'est un bon départ pour les débutants...
+	

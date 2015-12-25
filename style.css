@@ -43,3 +43,25 @@ input[type=search] {
   box-sizing: content-box;
   transition: all .3s;
 }
+/*
+*
+*
+*
+*
+*/
+
+input[type="submit"], button {
+	cursor: pointer;
+}
+
+input[type="email"],
+input[type="url"]
+:valid {
+	color: green;
+}
+
+input[type="email"],
+input[type="url"]
+:invalid {
+	color: red;
+}

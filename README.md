@@ -1,4 +1,5 @@
 # Mon_formulaire
+-----------------
 
 ## Mon formulaire d'inscription
 
@@ -8,3 +9,11 @@
 	* Vous pouvez l'améliorer à votre guise, par ailleurs c'est un bon départ pour les débutants... 
 	
 [Mon_Formulaire](https://github.com/mmauri04/Mon_formulaire)
+------------------------------------------------------------
+------------------------------------------------------------
+
+
+|    Nom   | Prénom    | numéro   | Adresse |         
+|----------|-----------|----------|---------|
+|    Mauricette      |     Mario      | 06...         |   Ht      |          
+|    Pierrot      |    Garden       |   06...       |    Ht     |         
